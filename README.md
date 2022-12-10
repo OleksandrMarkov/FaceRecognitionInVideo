@@ -1,4 +1,4 @@
-# FaceRecognitionInVideo
+# Face Recognition In Video
 Tkinter+OpenCV+pyTelegramBotAPI app for recognition faces in video
 
 ## General info
