@@ -1,0 +1,8 @@
+snapshots/
+ico/
+model/
+draft/
+dataset/
+dlibfolder/
+
+__pycache__
