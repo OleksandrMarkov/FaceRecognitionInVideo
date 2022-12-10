@@ -17,7 +17,7 @@ Please look full packages list in *libraries.txt*
 To run this project, download it locally and run *main.py* using Terminal
 
 ## Illustrations
-![Algorithm schema](https://github.com/OleksandrMarkov/FaceRecognitionInVideo/raw/main/блок-схема роботи ПЗ 2.png)
+![Algorithm schema](https://github.com/OleksandrMarkov/FaceRecognitionInVideo/raw/main/блок-схема%20роботи%20ПЗ%202.png)
 ![Main window](https://github.com/OleksandrMarkov/FaceRecognitionInVideo/raw/main/Вікно.png)
 ![Results in Telegram](https://github.com/OleksandrMarkov/FaceRecognitionInVideo/raw/main/результат.png)
 
